@@ -1,0 +1,36 @@
+06/07/2025 15:23:07: INFO: Element found!
+06/07/2025 15:23:07: INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+06/07/2025 15:23:14: INFO: Element found!
+06/07/2025 15:23:14: INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+06/07/2025 15:23:14: INFO: Element found!
+06/07/2025 15:23:14: INFO: Element found!
+06/07/2025 15:23:14: INFO: Sent text rwur@erwre.22 into the element.
+06/07/2025 15:23:14: INFO: Element found!
+06/07/2025 15:23:14: INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+06/07/2025 15:23:15: INFO: Element found!
+06/07/2025 15:23:15: INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+06/07/2025 15:23:16: INFO: Element found!
+06/07/2025 15:32:56: INFO: Element found!
+06/07/2025 15:32:56: INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+06/07/2025 15:33:08: INFO: Element found!
+06/07/2025 15:33:08: INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+06/07/2025 15:33:08: INFO: Element found!
+06/07/2025 15:33:08: INFO: Element found!
+06/07/2025 15:33:08: INFO: Sent text rwur@erwre.22 into the element.
+06/07/2025 15:33:08: INFO: Element found!
+06/07/2025 15:33:08: INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+06/07/2025 15:33:09: INFO: Element found!
+06/07/2025 15:33:09: INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+06/07/2025 15:33:09: INFO: Element found!
+06/07/2025 15:37:35 - LoginPage - INFO: Element found!
+06/07/2025 15:37:36 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+06/07/2025 15:37:49 - LoginPage - INFO: Element found!
+06/07/2025 15:37:49 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+06/07/2025 15:37:49 - LoginPage - INFO: Element found!
+06/07/2025 15:37:49 - LoginPage - INFO: Element found!
+06/07/2025 15:37:49 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+06/07/2025 15:37:49 - LoginPage - INFO: Element found!
+06/07/2025 15:37:50 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+06/07/2025 15:37:50 - LoginPage - INFO: Element found!
+06/07/2025 15:37:50 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+06/07/2025 15:37:51 - LoginPage - INFO: Element found!

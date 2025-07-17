@@ -1,0 +1,242 @@
+14/07/2025 14:43:54 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:44:09 - one_time_set_up - INFO: Running tests on Chrome.
+14/07/2025 14:44:12 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:50:40 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:50:57 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:51:00 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:52:22 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:52:39 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:52:42 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:53:40 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:53:51 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:53:55 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:54:13 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:54:25 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:54:28 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:55:42 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:56:04 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:56:07 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:56:31 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:56:50 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:56:53 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:57:23 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:57:46 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:57:46 - LoginPage - INFO: Element found!
+14/07/2025 14:57:46 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+14/07/2025 14:57:49 - LoginPage - INFO: Element found!
+14/07/2025 14:57:50 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 14:57:50 - LoginPage - INFO: Element found!
+14/07/2025 14:57:53 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:58:58 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:59:15 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:59:15 - LoginPage - INFO: Element found!
+14/07/2025 14:59:15 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+14/07/2025 14:59:17 - LoginPage - INFO: Element found!
+14/07/2025 14:59:18 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 14:59:18 - LoginPage - INFO: Element found!
+14/07/2025 14:59:21 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:59:21 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:59:21 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 14:59:44 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:59:44 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 14:59:54 - LoginPage - INFO: Element not found!
+14/07/2025 14:59:54 - LoginPage - INFO: Text can't be send.
+14/07/2025 14:59:56 - LoginPage - INFO: Element not found!
+14/07/2025 14:59:56 - LoginPage - INFO: Element can't be clicked. Locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 14:59:56 - LoginPage - INFO: Element not found!
+14/07/2025 14:59:56 - LoginPage - INFO: Element can't be clicked. Locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+14/07/2025 14:59:56 - LoginPage - INFO: Element not found!
+14/07/2025 14:59:58 - one_time_set_up - INFO: After a test, once.
+14/07/2025 14:59:58 - one_time_set_up - INFO: After a test, once.
+14/07/2025 15:00:06 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 15:00:30 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 15:02:59 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 15:03:21 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 15:03:24 - one_time_set_up - INFO: After a test, once.
+14/07/2025 15:06:43 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 15:06:55 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 15:06:55 - LoginPage - INFO: Element found!
+14/07/2025 15:06:55 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+14/07/2025 15:06:57 - LoginPage - INFO: Element found!
+14/07/2025 15:06:57 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 15:06:57 - LoginPage - INFO: Element found!
+14/07/2025 15:06:57 - LoginPage - INFO: Element found!
+14/07/2025 15:06:57 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+14/07/2025 15:06:57 - LoginPage - INFO: Element found!
+14/07/2025 15:06:57 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 15:06:58 - LoginPage - INFO: Element found!
+14/07/2025 15:06:58 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+14/07/2025 15:06:59 - LoginPage - INFO: Element found!
+14/07/2025 15:07:02 - one_time_set_up - INFO: After a test, once.
+14/07/2025 15:09:04 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 15:09:24 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 15:09:24 - LoginPage - INFO: Element found!
+14/07/2025 15:09:24 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+14/07/2025 15:09:27 - LoginPage - INFO: Element found!
+14/07/2025 15:09:27 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 15:09:27 - LoginPage - INFO: Element found!
+14/07/2025 15:09:27 - LoginPage - INFO: Element found!
+14/07/2025 15:09:27 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+14/07/2025 15:09:27 - LoginPage - INFO: Element found!
+14/07/2025 15:09:27 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 15:09:28 - LoginPage - INFO: Element found!
+14/07/2025 15:09:29 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+14/07/2025 15:09:29 - LoginPage - INFO: Element found!
+14/07/2025 15:09:32 - one_time_set_up - INFO: After a test, once.
+14/07/2025 15:12:23 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 15:12:35 - one_time_set_up - INFO: Running tests on Firefox.
+14/07/2025 15:12:35 - LoginPage - INFO: Element found!
+14/07/2025 15:12:35 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+14/07/2025 15:12:36 - LoginPage - INFO: Element found!
+14/07/2025 15:12:37 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 15:12:37 - LoginPage - INFO: Element found!
+14/07/2025 15:12:37 - LoginPage - INFO: Element found!
+14/07/2025 15:12:37 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+14/07/2025 15:12:37 - LoginPage - INFO: Element found!
+14/07/2025 15:12:37 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 15:12:38 - LoginPage - INFO: Element found!
+14/07/2025 15:12:38 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+14/07/2025 15:12:38 - LoginPage - INFO: Element found!
+14/07/2025 15:12:41 - one_time_set_up - INFO: After a test, once.
+14/07/2025 17:15:21 - one_time_set_up - INFO: Before every a test, once.
+14/07/2025 17:15:34 - WebdriverClass - INFO: No input for the browser, running Chrome.
+14/07/2025 17:15:39 - LoginPage - INFO: Element found!
+14/07/2025 17:15:40 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+14/07/2025 17:15:45 - LoginPage - INFO: Element found!
+14/07/2025 17:15:45 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 17:15:45 - LoginPage - INFO: Element found!
+14/07/2025 17:15:45 - LoginPage - INFO: Element found!
+14/07/2025 17:15:45 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+14/07/2025 17:15:45 - LoginPage - INFO: Element found!
+14/07/2025 17:15:45 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+14/07/2025 17:15:46 - LoginPage - INFO: Element found!
+14/07/2025 17:15:46 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+14/07/2025 17:15:47 - LoginPage - INFO: Element found!
+14/07/2025 17:15:49 - one_time_set_up - INFO: After a test, once.
+15/07/2025 15:45:43 - one_time_set_up - INFO: Before every a test, once.
+15/07/2025 15:45:48 - WebdriverClass - INFO: Running tests on Chrome.
+15/07/2025 15:45:56 - LoginPage - INFO: Element found!
+15/07/2025 15:45:56 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+15/07/2025 15:46:02 - LoginPage - INFO: Element found!
+15/07/2025 15:46:02 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+15/07/2025 15:46:02 - LoginPage - INFO: Element found!
+15/07/2025 15:46:02 - LoginPage - INFO: Element found!
+15/07/2025 15:46:02 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+15/07/2025 15:46:02 - LoginPage - INFO: Element found!
+15/07/2025 15:46:03 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+15/07/2025 15:46:03 - LoginPage - INFO: Element found!
+15/07/2025 15:46:03 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+15/07/2025 15:46:03 - LoginPage - INFO: Element found!
+15/07/2025 15:46:07 - one_time_set_up - INFO: After a test, once.
+15/07/2025 17:41:45 - one_time_set_up - INFO: Before every a test, once.
+15/07/2025 17:41:49 - WebdriverClass - INFO: Running tests on Chrome.
+15/07/2025 17:42:15 - LoginPage - INFO: Element found!
+15/07/2025 17:42:15 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+15/07/2025 17:42:38 - LoginPage - INFO: Element found!
+15/07/2025 17:42:38 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+15/07/2025 17:42:38 - LoginPage - INFO: Element found!
+15/07/2025 17:42:38 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+15/07/2025 17:42:38 - Util - INFO: Expected Text From Application Web UI --> :: Kode
+15/07/2025 17:42:38 - Util - INFO: ### VERIFICATION CONTAINS !!!
+15/07/2025 17:42:38 - LoginPage - INFO: Element found!
+15/07/2025 17:42:39 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+15/07/2025 17:42:39 - LoginPage - INFO: Element found!
+15/07/2025 17:42:39 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+15/07/2025 17:42:40 - LoginPage - INFO: Element found!
+15/07/2025 17:42:40 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+15/07/2025 17:42:40 - LoginPage - INFO: Element found!
+15/07/2025 17:42:42 - one_time_set_up - INFO: After a test, once.
+15/07/2025 17:43:55 - one_time_set_up - INFO: Before every a test, once.
+15/07/2025 17:43:56 - WebdriverClass - INFO: Running tests on Chrome.
+15/07/2025 17:44:23 - LoginPage - INFO: Element found!
+15/07/2025 17:44:23 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+15/07/2025 17:44:32 - LoginPage - INFO: Element found!
+15/07/2025 17:44:32 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+15/07/2025 17:44:32 - LoginPage - INFO: Element found!
+15/07/2025 17:44:32 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+15/07/2025 17:44:32 - Util - INFO: Expected Text From Application Web UI --> :: 123
+15/07/2025 17:44:32 - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+15/07/2025 17:44:32 - LoginPage - INFO: Element found!
+15/07/2025 17:44:32 - LoginPage - INFO: Sent text rwur@erwre.22 into the element.
+15/07/2025 17:44:32 - LoginPage - INFO: Element found!
+15/07/2025 17:44:32 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+15/07/2025 17:44:33 - LoginPage - INFO: Element found!
+15/07/2025 17:44:33 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+15/07/2025 17:44:33 - LoginPage - INFO: Element found!
+15/07/2025 17:44:36 - one_time_set_up - INFO: After a test, once.
+16/07/2025 15:36:47 - one_time_set_up - INFO: Before every a test, once.
+16/07/2025 15:37:05 - WebdriverClass - INFO: No input for the browser, running Chrome.
+16/07/2025 15:37:13 - LoginPage - INFO: Element found!
+16/07/2025 15:37:14 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+16/07/2025 15:37:23 - LoginPage - INFO: Element found!
+16/07/2025 15:37:23 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 15:37:23 - LoginPage - INFO: Element found!
+16/07/2025 15:37:23 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+16/07/2025 15:37:23 - Util - INFO: Expected Text From Application Web UI --> :: 123
+16/07/2025 15:37:23 - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+16/07/2025 15:37:25 - one_time_set_up - INFO: After a test, once.
+16/07/2025 15:44:28 - one_time_set_up - INFO: Before every a test, once.
+16/07/2025 15:44:29 - WebdriverClass - INFO: No input for the browser, running Chrome.
+16/07/2025 15:44:36 - LoginPage - INFO: Element found!
+16/07/2025 15:44:37 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+16/07/2025 15:44:45 - LoginPage - INFO: Element found!
+16/07/2025 15:44:45 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 15:44:45 - LoginPage - INFO: Element found!
+16/07/2025 15:44:45 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+16/07/2025 15:44:45 - Util - INFO: Expected Text From Application Web UI --> :: 123
+16/07/2025 15:44:45 - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+16/07/2025 15:44:48 - one_time_set_up - INFO: After a test, once.
+16/07/2025 15:51:26 - one_time_set_up - INFO: Before every a test, once.
+16/07/2025 15:51:27 - WebdriverClass - INFO: No input for the browser, running Chrome.
+16/07/2025 15:51:36 - LoginPage - INFO: Element found!
+16/07/2025 15:51:36 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+16/07/2025 15:51:46 - LoginPage - INFO: Element found!
+16/07/2025 15:51:46 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 15:51:46 - LoginPage - INFO: Element found!
+16/07/2025 15:51:46 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+16/07/2025 15:51:46 - Util - INFO: Expected Text From Application Web UI --> :: 123
+16/07/2025 15:51:46 - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+16/07/2025 15:51:46 - LoginPage - INFO: Element found!
+16/07/2025 15:51:46 - LoginPage - INFO: Sent text ('rwur@erwre.22',) into the element.
+16/07/2025 15:51:46 - LoginPage - INFO: Element found!
+16/07/2025 15:51:46 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 15:51:47 - LoginPage - INFO: Element found!
+16/07/2025 15:51:47 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+16/07/2025 15:51:47 - LoginPage - INFO: Element found!
+16/07/2025 15:51:49 - one_time_set_up - INFO: After a test, once.
+16/07/2025 15:53:12 - one_time_set_up - INFO: Before every a test, once.
+16/07/2025 15:53:13 - WebdriverClass - INFO: No input for the browser, running Chrome.
+16/07/2025 15:53:23 - LoginPage - INFO: Element found!
+16/07/2025 15:53:23 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+16/07/2025 15:53:32 - LoginPage - INFO: Element found!
+16/07/2025 15:53:32 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 15:53:32 - LoginPage - INFO: Element found!
+16/07/2025 15:53:32 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+16/07/2025 15:53:32 - Util - INFO: Expected Text From Application Web UI --> :: 123
+16/07/2025 15:53:32 - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+16/07/2025 15:53:32 - LoginPage - INFO: Element found!
+16/07/2025 15:53:32 - LoginPage - INFO: Sent text ('rwur@erwre.22',) into the element.
+16/07/2025 15:53:32 - LoginPage - INFO: Element found!
+16/07/2025 15:53:32 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 15:53:33 - LoginPage - INFO: Element found!
+16/07/2025 15:53:33 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+16/07/2025 15:53:33 - LoginPage - INFO: Element found!
+16/07/2025 15:53:36 - one_time_set_up - INFO: After a test, once.
+16/07/2025 18:23:00 - one_time_set_up - INFO: Before every a test, once.
+16/07/2025 18:23:03 - WebdriverClass - INFO: No input for the browser, running Chrome.
+16/07/2025 18:23:09 - LoginPage - INFO: Element found!
+16/07/2025 18:23:09 - LoginPage - INFO: Clicked on the element, locator: //a[@class='navbar-link fedora-navbar-link'], locator type: XPATH.
+16/07/2025 18:23:15 - LoginPage - INFO: Element found!
+16/07/2025 18:23:15 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 18:23:15 - LoginPage - INFO: Element found!
+16/07/2025 18:23:15 - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+16/07/2025 18:23:15 - Util - INFO: Expected Text From Application Web UI --> :: 123
+16/07/2025 18:23:15 - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+16/07/2025 18:23:15 - LoginPage - INFO: Element found!
+16/07/2025 18:23:15 - LoginPage - INFO: Sent text ('rwur@erwre.22',) into the element.
+16/07/2025 18:23:15 - LoginPage - INFO: Element found!
+16/07/2025 18:23:15 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Log In')], locator type: XPATH.
+16/07/2025 18:23:15 - LoginPage - INFO: Element found!
+16/07/2025 18:23:16 - LoginPage - INFO: Clicked on the element, locator: //span[contains(text(), 'Verify')], locator type: XPATH.
+16/07/2025 18:23:16 - LoginPage - INFO: Element found!
+16/07/2025 18:23:18 - one_time_set_up - INFO: After a test, once.
